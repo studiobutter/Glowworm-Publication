@@ -1,5 +1,14 @@
 # Changelogs
 
+## v0.1.11-preview and v0.1.12-preview
+
+This will be the last preview update to be using the old Velopack update, we recently switched to a new system. If you are on Cloudflare Update, please reinstall the app or download and replace the portable app with the current one.
+
+I'll be also stop pushing nupkg to GitHub Releases and instead will only pushing Portable and Setup Packages
+
+- Update to use the new Velopack Endpoint.
+- Fix Markdown Rendering
+
 ## v0.1.10-preview
 
 Refactoring Code
