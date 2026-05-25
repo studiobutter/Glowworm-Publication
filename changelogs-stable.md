@@ -1,7 +1,8 @@
 # Changelogs
 
-## v0.1.11
+## v0.1.12
 
+- [UI] Fix Update Window
 - [Velopack] Rework the update system.
 - [Backend] Refactoring Code
 - [Backend] Clean up dependencies.
