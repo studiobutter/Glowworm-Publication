@@ -2,7 +2,10 @@
 
 ## v0.1.12
 
-- [UI] Fix Update Window
+This will be the last preview update to be using the old Velopack update, we recently switched to a new system. If you are on Cloudflare Update, please reinstall the app or download and replace the portable app with the current one.
+
+I'll be also stop pushing nupkg to GitHub Releases and instead will only pushing Portable and Setup Packages
+
 - [Velopack] Rework the update system.
 - [Backend] Refactoring Code
 - [Backend] Clean up dependencies.
