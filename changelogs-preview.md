@@ -1,5 +1,11 @@
 # Changelogs
 
+## v0.1.13 - Emergency Hotfix
+
+If you only use GitHub update, Please reinstall the app. it will fix the Update Size issue
+
+- Fixes GitHub unable to pull the update correctly
+
 ## v0.1.11-preview and v0.1.12-preview
 
 This will be the last preview update to be using the old Velopack update, we recently switched to a new system. If you are on Cloudflare Update, please reinstall the app or download and replace the portable app with the current one.
