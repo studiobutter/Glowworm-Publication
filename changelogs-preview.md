@@ -1,5 +1,9 @@
 # Changelogs
 
+## v0.1.14-preview
+
+Added a Page to Backup and view Miliastra Wonderland Profile Pictures
+
 ## v0.1.13 - Emergency Hotfix
 
 If you only use GitHub update, Please reinstall the app. it will fix the Update Size issue
