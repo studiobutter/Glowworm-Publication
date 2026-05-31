@@ -1,8 +1,13 @@
 # Changelogs
 
+- [imp] Rounded Corners for MW PFP Page
+- [rm] Set as User Account Profile Picture
+
 ## v0.1.14-preview
 
-Added a Page to Backup and view Miliastra Wonderland Profile Pictures
+- [imp] Added a Page to Backup and view Miliastra Wonderland Profile Pictures
+- [fix] Missing Icons for Image Viewer
+- [fix] STandardize location to save MW Metadata
 
 ## v0.1.13 - Emergency Hotfix
 
