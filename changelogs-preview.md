@@ -1,5 +1,18 @@
 # Changelogs
 
+## v0.1.17-preview
+
+- [fix] Added System Tray Icon
+- [imp] Improved Screenshot Logic
+
+Backend has a minor change, App delta patching is not possible at this time and require a full patching. This does not affect your use of the app and you can update normally.
+
+I initally plan to add Controller Screenshot support, but due to certain latest Windows Update messing up the Controller logic, the said function will not be shipped. This also affected the existing Screenshot function built in Starward so if you can use that launcher's screenshot function, please don't update Windows unless it's required.
+
+Also I were initally plan to add Controller UI for this app for use of Handheld controllers but due to WinUI 3 nature, it's currently not possible to be added.
+
+That's all. If everything goes according to plan, the project will be soon localized and be released in v0.1.18 stable and preview. See ya.
+
 ## v0.1.16-preview
 
 - [imp] Added System Tray function. It's there for using "Screenshot functions"
