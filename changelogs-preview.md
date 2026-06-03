@@ -1,5 +1,11 @@
 # Changelogs
 
+## v0.1.16-preview
+
+- [imp] Added System Tray function. It's there for using "Screenshot functions"
+
+## v0.1.15-preview
+
 - [imp] Rounded Corners for MW PFP Page
 - [rm] Set as User Account Profile Picture
 
