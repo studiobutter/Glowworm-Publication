@@ -1,12 +1,37 @@
 # Changelogs
 
+## v0.1.18 - Localized
+
+This update requires a full patch. No need to do anything on your end, just click update.
+
+- [loc] Localization refresh across the app. Translation is now complete for Vietnamese, Japanese, Korean and Chinese Simplified and Traditional.
+  - Removed zh-HK, this is to keep the consistancy with Gacha Log official supported languages. 
+  - Clean up unused strings.
+  - If you found any area with missing strings, please contact me.
+- [imp] Refined UI components. 
+  - Added a tooltip about switching game regions. 
+  - Game tab will now show the region you currently/previously on.
+  - Added a refresh button to rescan installed games.
+- [fix] Added System Tray Icon
+- [imp] Improved Screenshot Logic
+- [imp] Added System Tray function. It's there for using "Screenshot functions"
+- [imp] Rounded Corners for MW PFP Page
+- [rm] Set as User Account Profile Picture
+- [imp] Added a Page to Backup and view Miliastra Wonderland Profile Pictures
+- [fix] Missing Icons for Image Viewer
+- [fix] Standardize location to save MW Metadata
+
+Notes:
+
+I got Crowdin up and running but Crowdin will be not available the same time until the app is publicly announced. It will take a while for me to announce the app due to other plans for another project. Stay tuned for that.
+
+I initally plan to add Controller Screenshot support, but due to certain latest Windows Update messing up the Controller logic, the said function will not be shipped. This also affected the existing Screenshot function built in Starward so if you can use that launcher's screenshot function, please don't update Windows unless it's required.
+
+Also I were initally plan to add Controller UI for this app for use of Handheld controllers but due to WinUI 3 nature, it's currently not possible to be added.
+
+This is currently the final release I'm working on. Unless something changes the app will keep working for a while. That's all. See ya!
+
 ## v0.1.13 - Emergency Hotfix
-
-If you only use GitHub update, Please reinstall the app. it will fix the Update Size issue
-
-- Fixes GitHub unable to pull the update correctly
-
-## v0.1.12
 
 This will be the last preview update to be using the old Velopack update, we recently switched to a new system. If you are on Cloudflare Update, please reinstall the app or download and replace the portable app with the current one.
 

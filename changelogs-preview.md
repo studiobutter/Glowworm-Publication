@@ -1,5 +1,18 @@
 # Changelogs
 
+## v0.1.18-preview
+
+I got Crowdin up and running but Crowdin will be not available the same time until the app is publicly announced. It will take a while for me to announce the app due to other plans for another project. Stay tuned for that.
+
+- [loc] Localization refresh across the app. Translation is now complete for Vietnamese, Japanese, Korean and Chinese Simplified and Traditional.
+  - Removed zh-HK, this is to keep the consistancy with Gacha Log official supported languages. 
+  - Clean up unused strings.
+  - If you found any area with missing strings, please contact me.
+- [imp] Refined UI components. 
+  - Added a tooltip about switching game regions. 
+  - Game tab will now show the region you currently/previously on.
+  - Added a refresh button to rescan installed games.
+
 ## v0.1.17-preview
 
 - [fix] Added System Tray Icon
