@@ -1,5 +1,10 @@
 # Changelogs
 
+## v0.1.19-preview - Support for ZZZ on Steam
+
+- [feat] Support for ZZZ on Steam
+- [imp] You can now change where to save MW Profile Pictures
+
 ## v0.1.18-preview
 
 I got Crowdin up and running but Crowdin will be not available the same time until the app is publicly announced. It will take a while for me to announce the app due to other plans for another project. Stay tuned for that.

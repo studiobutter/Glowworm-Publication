@@ -1,5 +1,10 @@
 # Changelogs
 
+## v0.1.19 - Support for ZZZ on Steam
+
+- [feat] Support for ZZZ on Steam
+- [imp] You can now change where to save MW Profile Pictures
+
 ## v0.1.18 - Localized
 
 This update requires a full patch. No need to do anything on your end, just click update.
