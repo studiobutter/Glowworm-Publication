@@ -4,6 +4,8 @@
 
 - [feat] Support for ZZZ on Steam
 - [imp] You can now change where to save MW Profile Pictures
+- [imp] Make Cloud Game as a seperate dedicated tabs.
+- [rm] Remove Cloud Game Screenshot "piggybacked" onto the full game function
 
 ## v0.1.18 - Localized
 
