@@ -6,6 +6,9 @@
 - [imp] You can now change where to save MW Profile Pictures
 - [imp] Make Cloud Game as a seperate dedicated tabs.
 - [rm] Remove Cloud Game Screenshot "piggybacked" onto the full game function
+- [fix] Google Play and Epic Games version missing features
+- [dev] App Screenshot (Contributors can build and debug the app in Visual Studio or VS Code with C# extension, while Debugging, press F12 to take a screenshot of the app without the Windows Background)
+- [imp] Improve Icon Loading when Windows was unlocked or waken from Sleep/Hibernation
 
 ## v0.1.18 - Localized
 
