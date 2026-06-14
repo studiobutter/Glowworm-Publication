@@ -1,6 +1,6 @@
 # Changelogs
 
-## v0.1.19-preview - Support for ZZZ on Steam
+## v0.1.19-preview - Support for ZZZ on Steam and QOL
 
 - [feat] Support for ZZZ on Steam
 - [imp] You can now change where to save MW Profile Pictures
