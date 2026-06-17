@@ -11,7 +11,7 @@
 - [imp] Improve Icon Loading when Windows was unlocked or waken from Sleep/Hibernation
 - [imp] Improve UI Navigation when using Keyboard only
   - Gacha Log and MW Gacha Log Split button now can be choose separately when tabbing
-  - Game Tab region switching instruction is now a button instead a hover icon,
+  - Game Tab region switching instruction is now a button instead a hover icon.
 
 ## v0.1.18-preview
 
