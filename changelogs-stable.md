@@ -1,5 +1,12 @@
 # Changelogs
 
+## v0.1.20 - MANDATORY UPDATE
+
+This update contains clean of unused function as well contain clean up of any unused data in the database.
+
+- [fix] Steam ZZZ unable to get Gacha Data.
+- [imp] Code Clean up and Database Clean up.
+
 ## v0.1.19 - Support for ZZZ on Steam and QOL
 
 - [feat] Support for ZZZ on Steam
