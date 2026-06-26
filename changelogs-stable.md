@@ -1,5 +1,15 @@
 # Changelogs
 
+## v0.1.21 - Backup anywhere!
+
+- [feat] Improved Backup Function, now detect Cloud Folders (Except Google Drive), and Network Drives.
+- Cleanup unused Database data
+- [imp] UI Improvements
+- [imp] Improve importing Gacha Data from UIGF for Beyond Data.
+- [feat] Add Syncing Function for backing up App Setting and Gacha Data.
+- [imp]: Minor UI Tweaks
+- [maint] Update .NET packages, migrating from deprecated, now vulnerable dependency to the alternative amd safe dependency.
+
 ## v0.1.20 - MANDATORY UPDATE
 
 This update contains clean of unused function as well contain clean up of any unused data in the database.
