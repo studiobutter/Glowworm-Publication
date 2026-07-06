@@ -1,5 +1,11 @@
 # Changelogs
 
+## v0.1.22 - EMERGENCY HOTFIX
+
+- [fix] Genshin Gacha Log not imported (Priority)
+- [fix] Better Gacha Import for ZZZ
+- [fix] UI Button location for Refresh Network Location Backup
+
 ## v0.1.21 - Backup anywhere!
 
 - [feat] Improved Backup Function, now detect Cloud Folders (Except Google Drive), and Network Drives.
