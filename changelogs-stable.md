@@ -1,5 +1,15 @@
 # Changelogs
 
+## v0.1.23 - Welcoming the First Generation Void Hunter in ZZZ
+
+In this version, we added support for ZZZ for XBOX PC. Glowworm will now work with this version and you can do most of the things you can with the official PC version except for one issue. We discovered that the XBOX version for ZZZ after taking an in-game screenshot, the screenshots are not saved even if the game said saved to album. We tried to track down where but we haven't found how. As for now you can use the built-in Glowworm Screenshot management and screenshot function to take in-game screenshot. Anyway, here are the changes:
+
+- [imp] Added ZZZ for XBOX PC support.
+- [fix] (CN Only) Getting Gacha Web now use the same fix as the last version.
+- [fix] `data_2` When having issue with Gacha Cache file, the app asks to delete the file so the game can recreate the file but was unable to launch Explorer due to pointing at a nonexistent location. This has been fixed.
+- [fix] UX: Added an indicator line to tell which game you on. (Why did it took me 23 version later to add it?????)
+- [imp] Improve the Gacha Rate UP for ZZZ new Gacha pool.
+
 ## v0.1.22 - EMERGENCY HOTFIX
 
 - [fix] Genshin Gacha Log not imported (Priority)
