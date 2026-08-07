@@ -1,5 +1,11 @@
 # Changelogs
 
+## v0.1.24 - bug fixes and improvements
+
+- [fix] Window Name for UIGF v4.2a Import Export
+- [fix] Update HSR URL
+- [imp] Improve Cache clearing by pointing the whole folder instead of a single file
+
 ## v0.1.23 - Welcoming the First Generation Void Hunter in ZZZ
 
 In this version, we added support for ZZZ for XBOX PC. Glowworm will now work with this version and you can do most of the things you can with the official PC version except for one issue. We discovered that the XBOX version for ZZZ after taking an in-game screenshot, the screenshots are not saved even if the game said saved to album. We tried to track down where but we haven't found how. As for now you can use the built-in Glowworm Screenshot management and screenshot function to take in-game screenshot. Anyway, here are the changes:
