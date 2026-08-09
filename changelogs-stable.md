@@ -1,5 +1,11 @@
 # Changelogs
 
+## v0.1.25 - More bug fixes and improvements
+
+- [fix] Fix inconsitency in [#24](https://github.com/studiobutter/Glowworm/issues/23)
+- [fix] Text Overflow in About settings
+- [fix] MW Gacha Data not getting all when selecting update all.
+
 ## v0.1.24 - bug fixes and improvements
 
 - [fix] Window Name for UIGF v4.2a Import Export
