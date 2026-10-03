@@ -1,5 +1,11 @@
 # Changelogs
 
+## v0.1.26 - Mainly maintenance
+
+- [fix] Crashing when waking up from Hibernation
+- [fix] Tray Icon disappears in taskbar after restarting Windows Explorer
+- [imp] Refactor ZZZ Gacha Metadata, it now account for Server Timezone Correctly instead of relying on official minor incorrect data
+
 ## v0.1.25 - More bug fixes and improvements
 
 - [fix] Fix inconsitency in [#24](https://github.com/studiobutter/Glowworm/issues/23)
