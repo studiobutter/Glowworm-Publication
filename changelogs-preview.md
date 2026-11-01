@@ -1,5 +1,12 @@
 # Changelogs
 
+## v0.1.27-preview - Preparing for Migration
+
+This build is released for testers to check out the new UI changes. The next version will contain endpoint changes on how we process data.
+
+- [imp] New Tab View using Native `TabView` from Windows WinUI 3
+- [fix] System non-client drag layer was intercepting clicks before they reached the app layer.
+
 ## v0.1.26-preview - Mainly maintenance
 
 - [fix] Crashing when waking up from Hibernation
