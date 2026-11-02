@@ -1,5 +1,13 @@
 # Changelogs
 
+## v0.1.28-preview - Handing off Beyond Data
+
+This build contain changes to how Glowworm handles getting metadata as well images. Going forward, Glowworm will be relying on [Snap.Metadata](https://github.com/SnapHutaoRemasteringProject/Snap.Metadata) for getting Miliastra Wonderland Gacha Data as well [nanoka.cc](nanoka.cc) for getting image icons. 
+
+As this is a Significant change, we urge user that still on v0.1.26 to update to version v0.1.28 or later today when Genshin Impact v7.2 releases. For testers, you will be getting the update first before Game Maintenance.
+
+After v7.2, I'll be closing down my own Metadata in 21 days (phase 2 of Genshin v7.2) to clear up any data in Cloudflare. Metadata will not be updated starting v7.2. Any Image Icons as well metadata will not be avaliable after v7.2 is released. Please update to v0.1.28 as soon as possible. 
+
 ## v0.1.27-preview - Preparing for Migration
 
 This build is released for testers to check out the new UI changes. The next version will contain endpoint changes on how we process data.
