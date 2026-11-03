@@ -1,5 +1,18 @@
 # Changelogs
 
+## v0.1.30 - Ruins
+
+This build contain changes to how Glowworm handles getting metadata as well images. Going forward, Glowworm will be relying on [Snap.Metadata](https://github.com/SnapHutaoRemasteringProject/Snap.Metadata) for getting Miliastra Wonderland Gacha Data as well [nanoka.cc](https://nanoka.cc) for getting image icons. 
+
+As this is a Significant change, we urge user that still on v0.1.26 to update to version v0.1.30 or later today when Genshin Impact v7.2 releases.
+
+After v7.2, I'll be closing down my own Metadata in 21 days (phase 2 of Genshin v7.2) to clear up any data in Cloudflare. Metadata will not be updated starting v7.2. Any Image Icons as well metadata will not be avaliable after v7.2 is released. Please update to v0.1.30 as soon as possible. 
+
+- [imp] New Tab View using Native `TabView` from Windows WinUI 3
+- [fix] System non-client drag layer was intercepting clicks before they reached the app layer.
+- [imp] Metadata source changed from Self-host Cloudflare to [Snap.Metadata](https://github.com/SnapHutaoRemasteringProject/Snap.Metadata) and [nanoka.cc](https://nanoka.cc)
+- Minor UI changes
+
 ## v0.1.26 - Mainly maintenance
 
 - [fix] Crashing when waking up from Hibernation

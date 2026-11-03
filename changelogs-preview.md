@@ -1,5 +1,9 @@
 # Changelogs
 
+## v0.1.30-preview - Ruins
+
+This update contain minor changes to the UI. For Preview users, this update is optional. For Stable user, v0.1.30 is a mandatory update to all users. Please update as soon as possible
+
 ## v0.1.28-preview - Handing off Beyond Data
 
 This build contain changes to how Glowworm handles getting metadata as well images. Going forward, Glowworm will be relying on [Snap.Metadata](https://github.com/SnapHutaoRemasteringProject/Snap.Metadata) for getting Miliastra Wonderland Gacha Data as well [nanoka.cc](nanoka.cc) for getting image icons. 
