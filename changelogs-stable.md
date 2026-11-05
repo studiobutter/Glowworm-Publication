@@ -1,5 +1,12 @@
 # Changelogs
 
+## v0.1.31 - Ruins
+
+This version introduce an announcement banner for app announcement. This is our way to communicate to users what's new and what's need your attention.
+
+Other:
+- Update all NuGet Packages
+
 ## v0.1.30 - Ruins
 
 This build contain changes to how Glowworm handles getting metadata as well images. Going forward, Glowworm will be relying on [Snap.Metadata](https://github.com/SnapHutaoRemasteringProject/Snap.Metadata) for getting Miliastra Wonderland Gacha Data as well [nanoka.cc](https://nanoka.cc) for getting image icons. 

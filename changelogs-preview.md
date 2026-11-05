@@ -1,5 +1,12 @@
 # Changelogs
 
+## v0.1.31-preview - Ruins
+
+This version introduce an announcement banner for app announcement. This is our way to communicate to users what's new and what's need your attention.
+
+Other:
+- Update all NuGet Packages
+
 ## v0.1.30-preview - Ruins
 
 This update contain minor changes to the UI. For Preview users, this update is optional. For Stable user, v0.1.30 is a mandatory update to all users. Please update as soon as possible
